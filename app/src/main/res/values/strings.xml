@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">mobileApp</string>
+    <string name="apptitle_loginscreen">TICKET</string>
+    <string name="appdescription_login">Recharge Travelling Card Mobile Client</string>
+    <string name="login_username_tv">Username</string>
+    <string name="login_pw_tv">Passowrd</string>
+    <string name="login_btn_tag">LOGIN</string>
+    <string name="regnow_sceen_tv">Register Now</string>
+    <string name="regTv">REGISTRATION</string>
+    <string name="regdes">Registration For Passengers</string>
+</resources>
